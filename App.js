@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Your Ultimate Virtual Sales Assistant</h1>
+      <h1>Your Ultimate Virtual Sales Helper</h1>
       <ProductList />
     </div>
   );
