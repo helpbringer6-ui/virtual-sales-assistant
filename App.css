@@ -12,7 +12,7 @@ ul {
 li {
   margin: 10px 0;
   cursor: pointer;
-  color: deepskyblue;
+  color: #007acc; /* Updated color for better accessibility */
 }
 
 li:hover {
